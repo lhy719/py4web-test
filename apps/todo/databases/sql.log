@@ -1,0 +1,6 @@
+timestamp: 2019-12-12T08:17:09.975669
+CREATE TABLE "todo"(
+    "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+    "info" CHAR(512)
+);
+success!

@@ -1,0 +1,11 @@
+threadsafevariable
+pydal >= 20190915.2
+pyjwt >= 1.6.4
+pluralize >= 0.1.5
+yatl >= 1.0.11
+bottle
+tornado
+gunicorn
+gevent
+requests
+python-memcached # used for testing or for optionally actually accessing memcache
